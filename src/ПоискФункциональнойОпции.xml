@@ -19,7 +19,7 @@
 					<v8:content>Поиск функциональной опции</v8:content>
 				</v8:item>
 			</Synonym>
-			<Comment>1.0.1</Comment>
+			<Comment/>
 			<DefaultForm>ExternalDataProcessor.ПоискФункциональнойОпции.Form.Форма</DefaultForm>
 			<AuxiliaryForm/>
 		</Properties>
